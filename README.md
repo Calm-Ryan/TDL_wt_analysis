@@ -1,7 +1,5 @@
-vad_project
+Prediction congection of Tokyo Disney Sea and wait time of each attractions
 ==============================
-
-ErnieMLG_HR
 
 Project Organization
 ------------
@@ -51,7 +49,5 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
-
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+Project based on the cookiecutter [data science project template](https://drivendata.github.io/cookiecutter-data-science/). #cookiecutterdatascience
